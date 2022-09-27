@@ -19,7 +19,7 @@
 * Reactotron,
 * Yarn;
 * Babel, ESLint, Prettier, EditorConfig,
-* React Navigation,
+* React Navigation, Styled Components, React-Native Vector Icons, React-Native Gesture Handler, Axios, Async Storage, Prop Types,
 * GitHub API.
 
 ----
