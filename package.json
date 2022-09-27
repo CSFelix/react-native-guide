@@ -10,7 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "react-native-community/async-storage",
+    "@react-native-community/async-storage": "^1.12.1",
     "axios": "^0.27.2",
+    "prop-types": "^15.8.1",
     "react": "18.1.0",
     "react-native": "0.70.1",
     "react-native-gesture-handler": "^2.6.2",
